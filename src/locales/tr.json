@@ -1,0 +1,116 @@
+{
+  "title": "Hearth App",
+  "home": {
+    "page_title": "Ana sayfa",
+    "meta_description": "Hearth — açılış sayfanız. Daha fazlasını keşfedin."
+  },
+  "landing": {
+    "header": {
+      "get_app": "Uygulamayı indir"
+    },
+    "hero": {
+      "badge": "Çiftler için 1 numaralı uygulama",
+      "title_line1": "Bağınızı güçlendirin.",
+      "title_line2": "Her gün.",
+      "subtitle": "Hearth, paylaşılan anılar, günlük sorular ve anlamlı etkileşimlerle daha güçlü ve samimi bir ilişki kurmanıza yardımcı olur.",
+      "private_secure": "Gizli ve güvenli",
+      "trusted_by": "50.000'den fazla çift tarafından güveniliyor"
+    },
+    "stats": {
+      "couples_connected": "Bağlanan çiftler",
+      "questions_answered": "Cevaplanan sorular",
+      "memories_shared": "Paylaşılan anılar",
+      "countries": "Ülkeler"
+    },
+    "features": {
+      "section_title": "Yakınlaşmak için ihtiyacınız olan her şey",
+      "section_subtitle": "İlişki uzmanları tarafından samimiyet, güven ve neşe için tasarlandı.",
+      "shared_memories_title": "Paylaşılan anılar",
+      "shared_memories_desc": "İlişkinizin en değerli fotoğraf ve anlarından canlı bir zaman çizelgesi oluşturun.",
+      "daily_prompts_title": "Günlük sorular",
+      "daily_prompts_desc": "Her gün yeni bir düşündürücü soruyla derin ve anlamlı sohbetler başlatın.",
+      "private_chat_title": "Özel sohbet",
+      "private_chat_desc": "Diğer sosyal uygulamaların gürültüsünden uzak, güvenli ve samimi bir sohbet alanı.",
+      "appreciation_title": "Takdir ve övgü",
+      "appreciation_desc": "Partnerinize değer verdiğinizi göstermek için sanal sarılmalar, aşk notları ve çıkartmalar gönderin.",
+      "streaks_title": "Seriler ve dönüm noktaları",
+      "streaks_desc": "İlişkinizin sürekliliğini takip edin, yıldönümleri ve kilometre taşlarını birlikte kutlayın.",
+      "privacy_first_title": "Gizlilik önce",
+      "privacy_first_desc": "Verileriniz uçtan uca şifrelenir ve yalnızca ikinize görünür. Dijital sığınağınız."
+    },
+    "how_it_works": {
+      "title": "Nasıl çalışır",
+      "subtitle": "Daha derin bir bağ kurmak için bugün üç basit adım.",
+      "step_1_title": "1. Partneri davet et",
+      "step_1_desc": "Kaydolun ve hesapları bağlamak için partnerinize benzersiz bir davet linki gönderin.",
+      "step_2_title": "2. Günlük bağlantı",
+      "step_2_desc": "Partnerinizin cevabını açmak için her gün eğlenceli veya derin bir soruya cevap verin.",
+      "step_3_title": "3. Birlikte büyüyün",
+      "step_3_desc": "Takdir ve açıklık alışkanlığı kurarak ilişkinizin derinleşmesini izleyin."
+    },
+    "testimonials": {
+      "badge": "50.000'den fazla çift tarafından seviliyor",
+      "section_title": "Topluluğumuzdan aşk hikayeleri",
+      "section_subtitle": "Hearth'ün dünya genelinde çiftlere daha derin bağlar kurmada nasıl yardımcı olduğunu keşfedin.",
+      "quote_1": "Hearth iletişim şeklimizi değiştirdi. Günlük sorular aksi halde yaşamayacağımız sohbetleri tetikliyor. Yeniden çıkmaya başlamışız gibi hissediyoruz.",
+      "author_1": "Jessica ve Mark",
+      "years_1": "3 yıldır birlikte",
+      "location_1": "San Francisco, CA",
+      "quote_2": "Özel zaman çizelgesini çok seviyorum. Kendi küçük sosyal ağımız gibi, sadece bizim için, gürültüsüz. Estetik çok güzel.",
+      "author_2": "Alex ve Sam",
+      "years_2": "5 yıldır evli",
+      "location_2": "Londra, UK",
+      "quote_3": "Bu yıl ilişkimize yaptığımız en iyi yatırım. Yoğun programlarımıza rağmen bizi bağlı tutuyor.",
+      "author_3": "Taylor ve Jordan",
+      "years_3": "1 yıldır birlikte",
+      "location_3": "Austin, TX"
+    },
+    "faq": {
+      "section_title": "Sıkça sorulan sorular",
+      "q1_question": "Hearth ücretsiz mi?",
+      "q1_answer": "Evet! Hearth, günlük sorular ve temel anı paylaşımı içeren cömert bir ücretsiz plana sahip. Hearth Premium sınırsız anı, gelişmiş içgörüler ve daha fazlasını açar.",
+      "q2_question": "Uzaktan ilişki için Hearth kullanabilir miyim?",
+      "q2_answer": "Kesinlikle. Hearth, aynı odada veya binlerce kilometre uzakta olsanız da çiftler arasındaki mesafeyi kapatmak için tasarlandı.",
+      "q3_question": "Verilerim gizli mi?",
+      "q3_answer": "Gizlilik önceliğimizdir. Sohbetleriniz ve fotoğraflarınız şifrelenir ve yalnızca siz ve partneriniz erişebilir. Verilerinizi satmıyoruz.",
+      "q4_question": "Ya ayrılırsak? (Üzücü ama pratik)",
+      "q4_answer": "Verilerinizi dışa aktarabilir veya hesabınızı kalıcı olarak silebilirsiniz. Verileriniz size aittir."
+    },
+    "cta": {
+      "title": "İlişkinize öncelik vermeye hazır mısınız?",
+      "subtitle": "Birlikte daha iyi bir gelecek inşa eden çiftler topluluğuna katılın.",
+      "available_on": "iOS ve Android'de mevcut"
+    },
+    "store": {
+      "app_store": "App Store",
+      "app_store_caption": "İndir:",
+      "google_play": "Google Play",
+      "google_play_caption": "Şurada mevcut:"
+    },
+    "footer": {
+      "tagline": "Dünyayı daha sevgi dolu bir yer yapıyoruz, bir çift bir zaman.",
+      "product": "Ürün",
+      "features": "Özellikler",
+      "pricing": "Fiyatlar",
+      "testimonials": "Yorumlar",
+      "faq": "SSS",
+      "company": "Şirket",
+      "about_us": "Hakkımızda",
+      "blog": "Blog",
+      "careers": "Kariyer",
+      "contact": "İletişim",
+      "legal": "Yasal",
+      "privacy_policy": "Gizlilik politikası",
+      "terms_of_service": "Hizmet koşulları",
+      "cookie_policy": "Çerez politikası",
+      "copyright": "© 2026 Hearth App. Tüm hakları saklıdır.",
+      "aria_language": "Dil seçin"
+    }
+  },
+  "notfound": {
+    "header": "Bulunamadı",
+    "description": "Böyle bir sayfa yok... üzücü.",
+    "try_creating_page": "Şurada bir sayfa oluşturmayı deneyin:"
+  },
+  "go_back": "Ana sayfaya dön"
+}

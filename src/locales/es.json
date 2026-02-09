@@ -1,0 +1,116 @@
+{
+  "title": "Hearth App",
+  "home": {
+    "page_title": "Página de inicio",
+    "meta_description": "Hearth — tu página de destino. Descubre más."
+  },
+  "landing": {
+    "header": {
+      "get_app": "Obtener app"
+    },
+    "hero": {
+      "badge": "La app #1 para parejas",
+      "title_line1": "Profundiza tu conexión.",
+      "title_line2": "Cada día.",
+      "subtitle": "Hearth te ayuda a construir una relación más fuerte e íntima a través de recuerdos compartidos, preguntas diarias e interacciones significativas.",
+      "private_secure": "Privado y seguro",
+      "trusted_by": "Con la confianza de más de 50.000 parejas"
+    },
+    "stats": {
+      "couples_connected": "Parejas conectadas",
+      "questions_answered": "Preguntas respondidas",
+      "memories_shared": "Recuerdos compartidos",
+      "countries": "Países"
+    },
+    "features": {
+      "section_title": "Todo lo que necesitas para estar más cerca",
+      "section_subtitle": "Diseñado por expertos en relaciones para fomentar la intimidad, la confianza y la alegría en tu relación.",
+      "shared_memories_title": "Recuerdos compartidos",
+      "shared_memories_desc": "Crea una línea de tiempo viva de las fotos y momentos más preciados de tu relación.",
+      "daily_prompts_title": "Preguntas diarias",
+      "daily_prompts_desc": "Genera conversaciones profundas y significativas con una nueva pregunta reflexiva cada día.",
+      "private_chat_title": "Chat privado",
+      "private_chat_desc": "Un espacio seguro e íntimo para vuestras conversaciones, lejos del ruido de otras redes sociales.",
+      "appreciation_title": "Aprecio y elogios",
+      "appreciation_desc": "Envía abrazos virtuales, notas de amor y pegatinas para mostrar a tu pareja que la valoras.",
+      "streaks_title": "Rachas y logros",
+      "streaks_desc": "Sigue la constancia de tu relación y celebra aniversarios y hitos juntos.",
+      "privacy_first_title": "Privacidad primero",
+      "privacy_first_desc": "Tus datos están cifrados de extremo a extremo y solo son visibles para vosotros dos. Tu refugio digital."
+    },
+    "how_it_works": {
+      "title": "Cómo funciona",
+      "subtitle": "Tres pasos sencillos para construir una conexión más profunda hoy.",
+      "step_1_title": "1. Invita a tu pareja",
+      "step_1_desc": "Regístrate y envía un enlace de invitación único a tu pareja para conectar vuestras cuentas.",
+      "step_2_title": "2. Conexión diaria",
+      "step_2_desc": "Responde una pregunta divertida o profunda cada día para desbloquear la respuesta de tu pareja.",
+      "step_3_title": "3. Crecer juntos",
+      "step_3_desc": "Observa cómo se profundiza vuestra relación al crear el hábito de la apreciación y la apertura."
+    },
+    "testimonials": {
+      "badge": "Amada por más de 50.000 parejas",
+      "section_title": "Historias de amor de nuestra comunidad",
+      "section_subtitle": "Descubre cómo Hearth está ayudando a parejas de todo el mundo a construir conexiones más profundas y significativas.",
+      "quote_1": "Hearth cambió nuestra forma de comunicarnos. Las preguntas diarias generan conversaciones que no tendríamos de otro modo. Sentimos que estamos saliendo de nuevo.",
+      "author_1": "Jessica y Mark",
+      "years_1": "Juntos 3 años",
+      "location_1": "San Francisco, CA",
+      "quote_2": "Me encanta la línea de tiempo privada. Es como nuestra propia red social, solo para nosotros, sin ruido. La estética es preciosa.",
+      "author_2": "Alex y Sam",
+      "years_2": "Casados 5 años",
+      "location_2": "Londres, Reino Unido",
+      "quote_3": "La mejor inversión que hemos hecho en nuestra relación este año. Nos mantiene conectados a pesar de nuestras agendas ocupadas.",
+      "author_3": "Taylor y Jordan",
+      "years_3": "Juntos 1 año",
+      "location_3": "Austin, TX"
+    },
+    "faq": {
+      "section_title": "Preguntas frecuentes",
+      "q1_question": "¿Hearth es gratuito?",
+      "q1_answer": "¡Sí! Hearth tiene un generoso nivel gratuito que incluye preguntas diarias y compartición básica de recuerdos. Hearth Premium desbloquea recuerdos ilimitados, análisis avanzados y más.",
+      "q2_question": "¿Puedo usar Hearth en una relación a distancia?",
+      "q2_answer": "Absolutamente. Hearth está diseñado para acortar la distancia entre parejas, ya sea en la misma habitación o a miles de kilómetros.",
+      "q3_question": "¿Mis datos son privados?",
+      "q3_answer": "La privacidad es nuestra prioridad. Tus conversaciones y fotos están cifradas y solo son accesibles para ti y tu pareja. No vendemos tus datos.",
+      "q4_question": "¿Y si rompemos? (Triste pero práctico)",
+      "q4_answer": "Puedes exportar tus datos o eliminar tu cuenta permanentemente. Tus datos te pertenecen."
+    },
+    "cta": {
+      "title": "¿Listo para priorizar tu relación?",
+      "subtitle": "Únete a la comunidad de parejas que construyen intencionalmente un futuro mejor juntos.",
+      "available_on": "Disponible en iOS y Android"
+    },
+    "store": {
+      "app_store": "App Store",
+      "app_store_caption": "Descargar en",
+      "google_play": "Google Play",
+      "google_play_caption": "Consíguelo en"
+    },
+    "footer": {
+      "tagline": "Haciendo del mundo un lugar más amoroso, una pareja a la vez.",
+      "product": "Producto",
+      "features": "Funciones",
+      "pricing": "Precios",
+      "testimonials": "Testimonios",
+      "faq": "FAQ",
+      "company": "Empresa",
+      "about_us": "Sobre nosotros",
+      "blog": "Blog",
+      "careers": "Carreras",
+      "contact": "Contacto",
+      "legal": "Legal",
+      "privacy_policy": "Política de privacidad",
+      "terms_of_service": "Términos de servicio",
+      "cookie_policy": "Política de cookies",
+      "copyright": "© 2026 Hearth App. Todos los derechos reservados.",
+      "aria_language": "Seleccionar idioma"
+    }
+  },
+  "notfound": {
+    "header": "No encontrado",
+    "description": "Has llegado a una ruta que no existe... la tristeza.",
+    "try_creating_page": "Intenta crear una página en"
+  },
+  "go_back": "Volver al inicio"
+}

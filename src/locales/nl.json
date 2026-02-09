@@ -1,0 +1,114 @@
+{
+  "title": "Hearth App",
+  "home": {
+    "page_title": "Startpagina",
+    "meta_description": "Hearth — jouw landingspagina. Ontdek meer."
+  },
+  "landing": {
+    "header": { "get_app": "App downloaden" },
+    "hero": {
+      "badge": "De nr. 1 app voor koppels",
+      "title_line1": "Verdiep jullie verbinding.",
+      "title_line2": "Elke dag.",
+      "subtitle": "Hearth helpt je een sterkere, intiemere relatie op te bouwen door gedeelde herinneringen, dagelijkse vragen en zinvolle interacties.",
+      "private_secure": "Privé en veilig",
+      "trusted_by": "Vertrouwd door meer dan 50.000 koppels"
+    },
+    "stats": {
+      "couples_connected": "Koppels verbonden",
+      "questions_answered": "Vragen beantwoord",
+      "memories_shared": "Herinneringen gedeeld",
+      "countries": "Landen"
+    },
+    "features": {
+      "section_title": "Alles wat je nodig hebt om dichter bij elkaar te komen",
+      "section_subtitle": "Ontworpen door relatie-experts om intimiteit, vertrouwen en vreugde in jullie relatie te bevorderen.",
+      "shared_memories_title": "Gedeelde herinneringen",
+      "shared_memories_desc": "Bouw een levende tijdlijn van jullie mooiste foto's en momenten.",
+      "daily_prompts_title": "Dagelijkse vragen",
+      "daily_prompts_desc": "Start diepe, zinvolle gesprekken met elke dag een nieuwe prikkelende vraag.",
+      "private_chat_title": "Privé chat",
+      "private_chat_desc": "Een veilige, intieme ruimte voor jullie gesprekken, weg van de ruis van andere apps.",
+      "appreciation_title": "Waardering en complimenten",
+      "appreciation_desc": "Stuur virtuele knuffels, liefdesbriefjes en stickers om je partner te laten zien dat hij/zij gewaardeerd wordt.",
+      "streaks_title": "Reeksen en mijlpalen",
+      "streaks_desc": "Volg de consistentie van jullie relatie en vier verjaardagen en mijlpalen samen.",
+      "privacy_first_title": "Privacy eerst",
+      "privacy_first_desc": "Jullie gegevens zijn end-to-end versleuteld en alleen voor jullie tweeën zichtbaar. Jullie digitale toevluchtsoord."
+    },
+    "how_it_works": {
+      "title": "Hoe het werkt",
+      "subtitle": "Drie eenvoudige stappen om vandaag een diepere verbinding op te bouwen.",
+      "step_1_title": "1. Nodig je partner uit",
+      "step_1_desc": "Meld je aan en stuur je partner een unieke uitnodigingslink om jullie accounts te koppelen.",
+      "step_2_title": "2. Dagelijkse verbinding",
+      "step_2_desc": "Beantwoord elke dag een leuke of diepgaande vraag om het antwoord van je partner te ontgrendelen.",
+      "step_3_title": "3. Groei samen",
+      "step_3_desc": "Zie jullie relatie verdiepen door een gewoonte van waardering en openheid."
+    },
+    "testimonials": {
+      "badge": "Geliefd bij meer dan 50.000 koppels",
+      "section_title": "Liefdesverhalen uit onze community",
+      "section_subtitle": "Ontdek hoe Hearth koppels wereldwijd helpt diepere verbindingen op te bouwen.",
+      "quote_1": "Hearth heeft onze communicatie veranderd. De dagelijkse vragen leiden tot gesprekken die we anders niet zouden hebben. Het voelt alsof we weer aan het daten zijn.",
+      "author_1": "Jessica & Mark",
+      "years_1": "3 jaar samen",
+      "location_1": "San Francisco, CA",
+      "quote_2": "Ik hou van de privé tijdlijn. Als ons eigen kleine netwerk, alleen voor ons, zonder ruis. Het ziet er gewoon prachtig uit.",
+      "author_2": "Alex & Sam",
+      "years_2": "5 jaar getrouwd",
+      "location_2": "Londen, UK",
+      "quote_3": "De beste investering in onze relatie dit jaar. Het houdt ons verbonden ondanks onze drukke agenda's.",
+      "author_3": "Taylor & Jordan",
+      "years_3": "1 jaar samen",
+      "location_3": "Austin, TX"
+    },
+    "faq": {
+      "section_title": "Veelgestelde vragen",
+      "q1_question": "Is Hearth gratis?",
+      "q1_answer": "Ja! Hearth heeft een ruim gratis aanbod met dagelijkse vragen en basis herinneringen delen. Hearth Premium ontgrendelt onbeperkte herinneringen, geavanceerde inzichten en meer.",
+      "q2_question": "Kan ik Hearth gebruiken voor een langeafstandsrelatie?",
+      "q2_answer": "Absoluut. Hearth is ontworpen om de afstand tussen koppels te overbruggen, of je nu in dezelfde kamer bent of duizenden kilometers uit elkaar.",
+      "q3_question": "Zijn mijn gegevens privé?",
+      "q3_answer": "Privacy is onze prioriteit. Jullie gesprekken en foto's zijn versleuteld en alleen toegankelijk voor jullie tweeën. We verkopen jullie gegevens niet.",
+      "q4_question": "Wat als we uit elkaar gaan?",
+      "q4_answer": "Je kunt je gegevens exporteren of je account permanent verwijderen. Jouw gegevens zijn van jou."
+    },
+    "cta": {
+      "title": "Klaar om je relatie prioriteit te geven?",
+      "subtitle": "Word lid van de community van koppels die bewust een betere toekomst samen opbouwen.",
+      "available_on": "Beschikbaar op iOS en Android"
+    },
+    "store": {
+      "app_store": "App Store",
+      "app_store_caption": "Download in de",
+      "google_play": "Google Play",
+      "google_play_caption": "Krijg het op"
+    },
+    "footer": {
+      "tagline": "De wereld liefdevoller maken, één koppel tegelijk.",
+      "product": "Product",
+      "features": "Functies",
+      "pricing": "Prijzen",
+      "testimonials": "Testimonials",
+      "faq": "FAQ",
+      "company": "Bedrijf",
+      "about_us": "Over ons",
+      "blog": "Blog",
+      "careers": "Carrière",
+      "contact": "Contact",
+      "legal": "Juridisch",
+      "privacy_policy": "Privacybeleid",
+      "terms_of_service": "Servicevoorwaarden",
+      "cookie_policy": "Cookiebeleid",
+      "copyright": "© 2026 Hearth App. Alle rechten voorbehouden.",
+      "aria_language": "Taal selecteren"
+    }
+  },
+  "notfound": {
+    "header": "Niet gevonden",
+    "description": "Deze pagina bestaat niet.",
+    "try_creating_page": "Probeer een pagina te maken in"
+  },
+  "go_back": "Terug naar startpagina"
+}

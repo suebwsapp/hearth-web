@@ -1,0 +1,116 @@
+{
+  "title": "Hearth App",
+  "home": {
+    "page_title": "Pagina iniziale",
+    "meta_description": "Hearth — la tua landing page. Scopri di più."
+  },
+  "landing": {
+    "header": {
+      "get_app": "Scarica l'app"
+    },
+    "hero": {
+      "badge": "L'app n°1 per le coppie",
+      "title_line1": "Approfondisci la tua connessione.",
+      "title_line2": "Ogni singolo giorno.",
+      "subtitle": "Hearth ti aiuta a costruire una relazione più forte e intima attraverso ricordi condivisi, domande quotidiane e interazioni significative.",
+      "private_secure": "Privato e sicuro",
+      "trusted_by": "Scelta da oltre 50.000 coppie"
+    },
+    "stats": {
+      "couples_connected": "Coppie connesse",
+      "questions_answered": "Domande risposte",
+      "memories_shared": "Ricordi condivisi",
+      "countries": "Paesi"
+    },
+    "features": {
+      "section_title": "Tutto ciò che serve per avvicinarsi",
+      "section_subtitle": "Progettato da esperti di relazioni per favorire intimità, fiducia e gioia nella vostra coppia.",
+      "shared_memories_title": "Ricordi condivisi",
+      "shared_memories_desc": "Costruisci una timeline viva delle foto e dei momenti più preziosi della vostra relazione.",
+      "daily_prompts_title": "Domande quotidiane",
+      "daily_prompts_desc": "Scatena conversazioni profonde e significative con una nuova domanda stimolante ogni giorno.",
+      "private_chat_title": "Chat privata",
+      "private_chat_desc": "Uno spazio sicuro e intimo per le vostre conversazioni, lontano dal rumore degli altri social.",
+      "appreciation_title": "Apprezzamento e complimenti",
+      "appreciation_desc": "Invia abbracci virtuali, bigliettini d'amore e sticker per far sentire il tuo partner apprezzato.",
+      "streaks_title": "Serie e traguardi",
+      "streaks_desc": "Segui la costanza della vostra relazione e festeggia anniversari e traguardi insieme.",
+      "privacy_first_title": "Privacy prima di tutto",
+      "privacy_first_desc": "I tuoi dati sono crittografati end-to-end e visibili solo a voi due. Il vostro santuario digitale."
+    },
+    "how_it_works": {
+      "title": "Come funziona",
+      "subtitle": "Tre semplici passi per costruire una connessione più profonda oggi.",
+      "step_1_title": "1. Invita il partner",
+      "step_1_desc": "Iscriviti e invia un link di invito unico al tuo partner per collegare i vostri account.",
+      "step_2_title": "2. Connessione quotidiana",
+      "step_2_desc": "Rispondi a una domanda divertente o profonda ogni giorno per sbloccare la risposta del tuo partner.",
+      "step_3_title": "3. Crescere insieme",
+      "step_3_desc": "Guarda la vostra relazione approfondirsi coltivando abitudini di apprezzamento e apertura."
+    },
+    "testimonials": {
+      "badge": "Amata da oltre 50.000 coppie",
+      "section_title": "Storie d'amore dalla nostra community",
+      "section_subtitle": "Scopri come Hearth aiuta le coppie in tutto il mondo a costruire connessioni più profonde.",
+      "quote_1": "Hearth ha cambiato il nostro modo di comunicare. Le domande quotidiane generano conversazioni che non avremmo mai avuto. Sembra di uscire di nuovo insieme.",
+      "author_1": "Jessica e Mark",
+      "years_1": "Insieme da 3 anni",
+      "location_1": "San Francisco, CA",
+      "quote_2": "Adoro la timeline privata. È come il nostro piccolo social, solo per noi, senza rumore. L'estetica è bellissima.",
+      "author_2": "Alex e Sam",
+      "years_2": "Sposati da 5 anni",
+      "location_2": "Londra, UK",
+      "quote_3": "Il miglior investimento che abbiamo fatto per la nostra relazione quest'anno. Ci tiene connessi nonostante gli impegni.",
+      "author_3": "Taylor e Jordan",
+      "years_3": "Insieme da 1 anno",
+      "location_3": "Austin, TX"
+    },
+    "faq": {
+      "section_title": "Domande frequenti",
+      "q1_question": "Hearth è gratuito?",
+      "q1_answer": "Sì! Hearth ha un piano gratuito generoso con domande quotidiane e condivisione base dei ricordi. Hearth Premium sblocca ricordi illimitati, insight avanzati e altro.",
+      "q2_question": "Posso usare Hearth per una relazione a distanza?",
+      "q2_answer": "Assolutamente. Hearth è pensato per colmare la distanza tra le coppie, nella stessa stanza o a migliaia di chilometri.",
+      "q3_question": "I miei dati sono privati?",
+      "q3_answer": "La privacy è la nostra priorità. Le tue conversazioni e foto sono crittografate e accessibili solo a te e al tuo partner. Non vendiamo i tuoi dati.",
+      "q4_question": "E se ci lasciamo? (Triste ma pratico)",
+      "q4_answer": "Puoi esportare i tuoi dati o eliminare definitivamente il tuo account. I tuoi dati ti appartengono."
+    },
+    "cta": {
+      "title": "Pronto a dare priorità alla tua relazione?",
+      "subtitle": "Unisciti alla community di coppie che costruiscono insieme un futuro migliore.",
+      "available_on": "Disponibile su iOS e Android"
+    },
+    "store": {
+      "app_store": "App Store",
+      "app_store_caption": "Scarica su",
+      "google_play": "Google Play",
+      "google_play_caption": "Disponibile su"
+    },
+    "footer": {
+      "tagline": "Rendere il mondo un posto più amorevole, una coppia alla volta.",
+      "product": "Prodotto",
+      "features": "Funzionalità",
+      "pricing": "Prezzi",
+      "testimonials": "Testimonianze",
+      "faq": "FAQ",
+      "company": "Azienda",
+      "about_us": "Chi siamo",
+      "blog": "Blog",
+      "careers": "Lavora con noi",
+      "contact": "Contatti",
+      "legal": "Note legali",
+      "privacy_policy": "Privacy policy",
+      "terms_of_service": "Termini di servizio",
+      "cookie_policy": "Cookie policy",
+      "copyright": "© 2026 Hearth App. Tutti i diritti riservati.",
+      "aria_language": "Seleziona lingua"
+    }
+  },
+  "notfound": {
+    "header": "Non trovato",
+    "description": "Questa pagina non esiste... la tristezza.",
+    "try_creating_page": "Prova a creare una pagina in"
+  },
+  "go_back": "Torna alla home"
+}

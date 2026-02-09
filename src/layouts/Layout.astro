@@ -1,23 +1,95 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
-	</head>
-	<body>
-		<slot />
-	</body>
-</html>
+---
+import "../styles/global.css";
+import { siteConfig, getAbsoluteUrl, buildWebSiteJsonLd } from "../config/site";
+import { toOgLocale } from "../utils/toOfLocale";
 
-<style>
-	html,
-	body {
-		margin: 0;
-		width: 100%;
-		height: 100%;
-	}
-</style>
+interface Props {
+  title: string;
+  description?: string;
+  lang?: string;
+  path?: string;
+  noindex?: boolean;
+  localeAlternates?: { href: string; hreflang: string }[];
+  jsonLd?: object | object[];
+}
+
+const {
+  title,
+  description = siteConfig.defaultDescription,
+  lang = "en",
+  path = "",
+  noindex = false,
+  localeAlternates = [],
+  jsonLd,
+} = Astro.props;
+
+const canonicalUrl = getAbsoluteUrl(path);
+const fullTitle =
+  title === siteConfig.defaultTitle ? title : `${title} | ${siteConfig.name}`;
+const ogImage = getAbsoluteUrl(siteConfig.defaultOgImage);
+const metaDescription =
+  description && description.trim() ? description.trim() : siteConfig.defaultDescription;
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="theme-color" content="#9b59b6" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={metaDescription} />
+    {
+      noindex ? (
+        <meta name="robots" content="noindex, nofollow" />
+      ) : (
+        <meta
+          name="robots"
+          content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        />
+      )
+    }
+    <link rel="canonical" href={canonicalUrl} />
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={metaDescription} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content={siteConfig.name} />
+    <meta property="og:locale" content={toOgLocale(lang)} />
+    {
+      localeAlternates
+        .filter((alt) => alt.hreflang !== lang && alt.hreflang !== "x-default")
+        .map((alt) => (
+          <meta property="og:locale:alternate" content={toOgLocale(alt.hreflang)} />
+        ))
+    }
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content={canonicalUrl} />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={metaDescription} />
+    <meta name="twitter:image" content={ogImage} />
+    {siteConfig.twitterHandle && (
+      <meta name="twitter:site" content={siteConfig.twitterHandle} />
+    )}
+    <!-- Alternate languages -->
+    {localeAlternates.map((alt) => (
+      <link rel="alternate" hrefLang={alt.hreflang} href={alt.href} />
+    ))}
+    {jsonLd && (
+      <script
+        type="application/ld+json"
+        set:html={JSON.stringify(Array.isArray(jsonLd) ? jsonLd : [jsonLd])}
+      />
+    )}
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

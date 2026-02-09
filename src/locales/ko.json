@@ -1,0 +1,116 @@
+{
+  "title": "Hearth App",
+  "home": {
+    "page_title": "홈",
+    "meta_description": "Hearth — 랜딩 페이지. 더 알아보기."
+  },
+  "landing": {
+    "header": {
+      "get_app": "앱 받기"
+    },
+    "hero": {
+      "badge": "커플을 위한 1위 앱",
+      "title_line1": "연결을 더 깊게.",
+      "title_line2": "매일 함께.",
+      "subtitle": "Hearth는 공유 추억, 일일 질문, 의미 있는 소통을 통해 더 강하고 친밀한 관계를 만드는 데 도움을 줍니다.",
+      "private_secure": "비공개 및 보안",
+      "trusted_by": "5만 쌍 이상이 선택한 앱"
+    },
+    "stats": {
+      "couples_connected": "연결된 커플",
+      "questions_answered": "답한 질문",
+      "memories_shared": "공유한 추억",
+      "countries": "국가"
+    },
+    "features": {
+      "section_title": "가까워지기 위해 필요한 모든 것",
+      "section_subtitle": "관계 전문가가 설계했습니다. 친밀감, 신뢰, 기쁨을 키웁니다.",
+      "shared_memories_title": "공유 추억",
+      "shared_memories_desc": "관계에서 가장 소중한 사진과 순간들의 살아 있는 타임라인을 만드세요.",
+      "daily_prompts_title": "일일 질문",
+      "daily_prompts_desc": "매일 하나의 생각할 거리를 주는 질문으로 깊고 의미 있는 대화를 시작하세요.",
+      "private_chat_title": "비공개 채팅",
+      "private_chat_desc": "다른 SNS 소음에서 떨어진, 안전하고 친밀한 대화 공간.",
+      "appreciation_title": "감사와 칭찬",
+      "appreciation_desc": "가상 포옹, 러브레터, 스티커로 파트너에게 소중함을 전하세요.",
+      "streaks_title": "연속 기록과 마일스톤",
+      "streaks_desc": "관계의 꾸준함을 기록하고, 기념일과 이정표를 함께 축하하세요.",
+      "privacy_first_title": "프라이버시 우선",
+      "privacy_first_desc": "데이터는 끝간격 암호화되며, 두 분만 볼 수 있습니다. 당신만의 디지털 공간."
+    },
+    "how_it_works": {
+      "title": "사용 방법",
+      "subtitle": "오늘부터 더 깊은 연결을 만드는 세 가지 간단한 단계.",
+      "step_1_title": "1. 파트너 초대",
+      "step_1_desc": "가입 후 파트너에게 전용 초대 링크를 보내 계정을 연결하세요.",
+      "step_2_title": "2. 일일 연결",
+      "step_2_desc": "매일 재미있거나 깊이 있는 질문 하나에 답하고, 파트너의 답을 잠금 해제하세요.",
+      "step_3_title": "3. 함께 성장",
+      "step_3_desc": "감사와 열린 마음 습관으로 관계가 깊어지는 걸 느껴보세요."
+    },
+    "testimonials": {
+      "badge": "5만 쌍 이상이 사랑하는 앱",
+      "section_title": "커뮤니티의 러브 스토리",
+      "section_subtitle": "Hearth가 전 세계 커플에게 더 깊은 연결을 선사하는 방법을 알아보세요.",
+      "quote_1": "Hearth가 우리 소통 방식을 바꿨어요. 일일 질문이 없었을 대화를 이끌어냅니다. 다시 연애하는 기분이에요.",
+      "author_1": "Jessica & Mark",
+      "years_1": "함께한 지 3년",
+      "location_1": "샌프란시스코, CA",
+      "quote_2": "비공개 타임라인이 너무 좋아요. 우리만의 작은 SNS 같고, 소음 없이 디자인도 예쁘죠.",
+      "author_2": "Alex & Sam",
+      "years_2": "결혼 5년차",
+      "location_2": "런던, UK",
+      "quote_3": "올해 관계에 대해 한 최고의 투자예요. 바쁜 와중에도 연결을 유지하게 해줘요.",
+      "author_3": "Taylor & Jordan",
+      "years_3": "함께한 지 1년",
+      "location_3": "오스틴, TX"
+    },
+    "faq": {
+      "section_title": "자주 묻는 질문",
+      "q1_question": "Hearth는 무료인가요?",
+      "q1_answer": "네! Hearth는 일일 질문과 기본 추억 공유가 포함된 넉넉한 무료 플랜을 제공합니다. Hearth Premium으로 무제한 추억, 고급 인사이트 등을 이용할 수 있습니다.",
+      "q2_question": "장거리 연애에도 쓸 수 있나요?",
+      "q2_answer": "물론이에요. Hearth는 같은 방에 있든 수천 마일 떨어져 있든, 커플 사이의 거리를 좁히기 위해 설계되었습니다.",
+      "q3_question": "제 데이터는 비공개인가요?",
+      "q3_answer": "프라이버시가 최우선입니다. 대화와 사진은 암호화되며, 당신과 파트너만 접근할 수 있습니다. 데이터를 판매하지 않습니다.",
+      "q4_question": "헤어지게 되면요?",
+      "q4_answer": "데이터를 내보내거나 계정을 영구 삭제할 수 있습니다. 데이터는 당신 것입니다."
+    },
+    "cta": {
+      "title": "관계를 최우선할 준비가 되셨나요?",
+      "subtitle": "더 나은 미래를 함께 만들 커플 커뮤니티에 참여하세요.",
+      "available_on": "iOS 및 Android에서 이용 가능"
+    },
+    "store": {
+      "app_store": "App Store",
+      "app_store_caption": "App Store에서 다운로드",
+      "google_play": "Google Play",
+      "google_play_caption": "Google Play에서 받기"
+    },
+    "footer": {
+      "tagline": "세상을 더 사랑스럽게, 한 커플씩.",
+      "product": "제품",
+      "features": "기능",
+      "pricing": "가격",
+      "testimonials": "후기",
+      "faq": "FAQ",
+      "company": "회사",
+      "about_us": "소개",
+      "blog": "블로그",
+      "careers": "채용",
+      "contact": "문의",
+      "legal": "법적 고지",
+      "privacy_policy": "개인정보 처리방침",
+      "terms_of_service": "이용약관",
+      "cookie_policy": "쿠키 정책",
+      "copyright": "© 2026 Hearth App. All rights reserved.",
+      "aria_language": "언어 선택"
+    }
+  },
+  "notfound": {
+    "header": "페이지를 찾을 수 없습니다",
+    "description": "이 페이지는 존재하지 않습니다.",
+    "try_creating_page": "다음 위치에 페이지를 만들어 보세요:"
+  },
+  "go_back": "홈으로 돌아가기"
+}

@@ -1,11 +1,36 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
+import Layout from "../layouts/Layout.astro";
+import { siteConfig, getAbsoluteUrl, buildWebSiteJsonLd } from "../config/site";
+import { flattenMessages } from "../utils/flattenMessages";
+import LandingPageWithI18n from "../components/LandingPageWithI18n";
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+const enModule = await import("../locales/en.json");
+const messages = flattenMessages(enModule.default as Record<string, unknown>);
+const lang = "en";
+const title = messages["home.page_title"] ?? siteConfig.defaultTitle;
+const description = messages["home.meta_description"] ?? siteConfig.defaultDescription;
+const path = "/";
+const localeAlternates = [
+  ...siteConfig.locales.map((locale) => ({
+    hreflang: locale === "en" ? "en" : locale,
+    href: getAbsoluteUrl(locale === "en" ? "/" : `/${locale}/`),
+  })),
+  { hreflang: "x-default", href: getAbsoluteUrl("/") },
+];
 ---
 
-<Layout>
-	<Welcome />
+<Layout
+  title={title}
+  description={description}
+  lang={lang}
+  path={path}
+  localeAlternates={localeAlternates}
+  jsonLd={buildWebSiteJsonLd()}
+>
+  <main
+    class="bg-background text-foreground w-screen font-body"
+    role="main"
+  >
+    <LandingPageWithI18n client:load lang={lang} messages={messages} />
+  </main>
 </Layout>

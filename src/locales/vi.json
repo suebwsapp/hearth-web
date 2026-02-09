@@ -1,0 +1,114 @@
+{
+  "title": "Hearth App",
+  "home": {
+    "page_title": "Trang chủ",
+    "meta_description": "Hearth — trang đích của bạn. Khám phá thêm."
+  },
+  "landing": {
+    "header": { "get_app": "Tải ứng dụng" },
+    "hero": {
+      "badge": "Ứng dụng #1 cho các cặp đôi",
+      "title_line1": "Gắn kết sâu sắc hơn.",
+      "title_line2": "Mỗi ngày.",
+      "subtitle": "Hearth giúp bạn xây dựng mối quan hệ bền chặt và thân mật hơn qua kỷ niệm chung, câu hỏi hàng ngày và tương tác ý nghĩa.",
+      "private_secure": "Riêng tư & An toàn",
+      "trusted_by": "Được hơn 50.000 cặp đôi tin dùng"
+    },
+    "stats": {
+      "couples_connected": "Cặp đôi kết nối",
+      "questions_answered": "Câu hỏi đã trả lời",
+      "memories_shared": "Kỷ niệm chia sẻ",
+      "countries": "Quốc gia"
+    },
+    "features": {
+      "section_title": "Mọi thứ bạn cần để gần nhau hơn",
+      "section_subtitle": "Thiết kế bởi chuyên gia quan hệ để giúp bạn nuôi dưỡng sự thân mật, tin tưởng và hạnh phúc.",
+      "shared_memories_title": "Kỷ niệm chung",
+      "shared_memories_desc": "Xây dựng dòng thời gian sống động từ những bức ảnh và khoảnh khắc quý giá nhất của hai bạn.",
+      "daily_prompts_title": "Câu hỏi hàng ngày",
+      "daily_prompts_desc": "Khơi gợi những cuộc trò chuyện sâu sắc, ý nghĩa với một câu hỏi mới mỗi ngày.",
+      "private_chat_title": "Trò chuyện riêng tư",
+      "private_chat_desc": "Không gian an toàn, thân mật cho cuộc trò chuyện của hai bạn, xa tiếng ồn của mạng xã hội.",
+      "appreciation_title": "Trân trọng & Khen ngợi",
+      "appreciation_desc": "Gửi ôm ảo, tin nhắn yêu thương và sticker để cho đối phương thấy họ được trân trọng.",
+      "streaks_title": "Chuỗi & Cột mốc",
+      "streaks_desc": "Theo dõi sự kiên trì trong quan hệ và cùng nhau kỷ niệm ngày kỷ niệm, cột mốc.",
+      "privacy_first_title": "Quyền riêng tư trước tiên",
+      "privacy_first_desc": "Dữ liệu của bạn được mã hóa đầu cuối và chỉ hai bạn mới xem được. Nơi an toàn kỹ thuật số của bạn."
+    },
+    "how_it_works": {
+      "title": "Cách hoạt động",
+      "subtitle": "Ba bước đơn giản để bắt đầu gắn kết sâu hơn ngay hôm nay.",
+      "step_1_title": "1. Mời đối phương",
+      "step_1_desc": "Đăng ký và gửi link mời duy nhất cho đối phương để kết nối tài khoản.",
+      "step_2_title": "2. Kết nối hàng ngày",
+      "step_2_desc": "Trả lời một câu hỏi vui hoặc sâu sắc mỗi ngày để mở khóa câu trả lời của đối phương.",
+      "step_3_title": "3. Cùng nhau phát triển",
+      "step_3_desc": "Quan hệ của hai bạn sẽ sâu sắc hơn khi bạn hình thành thói quen trân trọng và cởi mở."
+    },
+    "testimonials": {
+      "badge": "Được hơn 50.000 cặp đôi yêu thích",
+      "section_title": "Câu chuyện tình yêu từ cộng đồng",
+      "section_subtitle": "Khám phá cách Hearth giúp các cặp đôi trên thế giới xây dựng mối quan hệ sâu sắc hơn.",
+      "quote_1": "Hearth thay đổi cách chúng tôi giao tiếp. Câu hỏi hàng ngày gợi ra những cuộc trò chuyện mà chúng tôi không bao giờ có. Cảm giác như đang hẹn hò lại.",
+      "author_1": "Jessica & Mark",
+      "years_1": "Bên nhau 3 năm",
+      "location_1": "San Francisco, CA",
+      "quote_2": "Tôi thích dòng thời gian riêng. Như mạng xã hội nhỏ của chúng tôi, chỉ cho hai đứa, không ồn ào. Giao diện đẹp lắm.",
+      "author_2": "Alex & Sam",
+      "years_2": "Kết hôn 5 năm",
+      "location_2": "London, UK",
+      "quote_3": "Khoản đầu tư tốt nhất cho quan hệ năm nay. Giúp chúng tôi vẫn gần nhau dù lịch bận rộn.",
+      "author_3": "Taylor & Jordan",
+      "years_3": "Bên nhau 1 năm",
+      "location_3": "Austin, TX"
+    },
+    "faq": {
+      "section_title": "Câu hỏi thường gặp",
+      "q1_question": "Hearth có miễn phí không?",
+      "q1_answer": "Có! Hearth có gói miễn phí với câu hỏi hàng ngày và chia sẻ kỷ niệm cơ bản. Hearth Premium mở khóa kỷ niệm không giới hạn, thống kê nâng cao và hơn thế nữa.",
+      "q2_question": "Tôi có thể dùng Hearth cho quan hệ xa không?",
+      "q2_answer": "Hoàn toàn. Hearth được thiết kế để thu hẹp khoảng cách giữa các cặp đôi, dù cùng phòng hay cách nhau nghìn dặm.",
+      "q3_question": "Dữ liệu của tôi có riêng tư không?",
+      "q3_answer": "Quyền riêng tư là ưu tiên hàng đầu. Cuộc trò chuyện và ảnh được mã hóa và chỉ bạn và đối phương truy cập được. Chúng tôi không bán dữ liệu của bạn.",
+      "q4_question": "Nếu chúng tôi chia tay thì sao?",
+      "q4_answer": "Bạn có thể xuất dữ liệu hoặc xóa tài khoản vĩnh viễn. Dữ liệu thuộc về bạn."
+    },
+    "cta": {
+      "title": "Sẵn sàng ưu tiên mối quan hệ?",
+      "subtitle": "Tham gia cộng đồng các cặp đôi đang chủ động xây dựng tương lai tốt đẹp hơn.",
+      "available_on": "Có trên iOS & Android"
+    },
+    "store": {
+      "app_store": "App Store",
+      "app_store_caption": "Tải trên",
+      "google_play": "Google Play",
+      "google_play_caption": "Tải trên"
+    },
+    "footer": {
+      "tagline": "Làm thế giới tràn đầy yêu thương hơn, từng cặp đôi một.",
+      "product": "Sản phẩm",
+      "features": "Tính năng",
+      "pricing": "Giá",
+      "testimonials": "Đánh giá",
+      "faq": "FAQ",
+      "company": "Công ty",
+      "about_us": "Về chúng tôi",
+      "blog": "Blog",
+      "careers": "Tuyển dụng",
+      "contact": "Liên hệ",
+      "legal": "Pháp lý",
+      "privacy_policy": "Chính sách bảo mật",
+      "terms_of_service": "Điều khoản dịch vụ",
+      "cookie_policy": "Chính sách cookie",
+      "copyright": "© 2026 Hearth App. Đã đăng ký bản quyền.",
+      "aria_language": "Chọn ngôn ngữ"
+    }
+  },
+  "notfound": {
+    "header": "Không tìm thấy",
+    "description": "Trang này không tồn tại.",
+    "try_creating_page": "Thử tạo trang trong"
+  },
+  "go_back": "Về trang chủ"
+}

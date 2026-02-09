@@ -1,0 +1,114 @@
+{
+  "title": "Hearth App",
+  "home": {
+    "page_title": "Beranda",
+    "meta_description": "Hearth — halaman landing Anda. Temukan lebih banyak."
+  },
+  "landing": {
+    "header": { "get_app": "Dapatkan Aplikasi" },
+    "hero": {
+      "badge": "Aplikasi #1 untuk Pasangan",
+      "title_line1": "Perdalam Koneksi Anda.",
+      "title_line2": "Setiap Hari.",
+      "subtitle": "Hearth membantu Anda membangun hubungan yang lebih kuat dan intim melalui kenangan bersama, pertanyaan harian, dan interaksi yang bermakna.",
+      "private_secure": "Pribadi & Aman",
+      "trusted_by": "Dipercaya lebih dari 50.000 pasangan"
+    },
+    "stats": {
+      "couples_connected": "Pasangan Terhubung",
+      "questions_answered": "Pertanyaan Terjawab",
+      "memories_shared": "Kenangan Dibagikan",
+      "countries": "Negara"
+    },
+    "features": {
+      "section_title": "Semua yang Anda butuhkan untuk semakin dekat",
+      "section_subtitle": "Dirancang oleh ahli hubungan untuk membantu Anda membina keintiman, kepercayaan, dan kebahagiaan dalam hubungan.",
+      "shared_memories_title": "Kenangan Bersama",
+      "shared_memories_desc": "Buat garis waktu hidup dari foto dan momen paling berharga dalam hubungan Anda.",
+      "daily_prompts_title": "Pertanyaan Harian",
+      "daily_prompts_desc": "Mulai percakapan mendalam dan bermakna dengan satu pertanyaan baru setiap hari.",
+      "private_chat_title": "Obrolan Pribadi",
+      "private_chat_desc": "Ruang aman dan intim untuk percakapan Anda, jauh dari kebisingan aplikasi lain.",
+      "appreciation_title": "Apresiasi & Pujian",
+      "appreciation_desc": "Kirim pelukan virtual, catatan cinta, dan stiker untuk menunjukkan bahwa pasangan Anda dihargai.",
+      "streaks_title": "Streak & Pencapaian",
+      "streaks_desc": "Lacak konsistensi hubungan dan rayakan ulang tahun serta pencapaian bersama.",
+      "privacy_first_title": "Privasi Utama",
+      "privacy_first_desc": "Data Anda dienkripsi ujung ke ujung dan hanya terlihat oleh Anda berdua. Tempat aman digital Anda."
+    },
+    "how_it_works": {
+      "title": "Cara Kerjanya",
+      "subtitle": "Tiga langkah sederhana untuk mulai membangun koneksi yang lebih dalam hari ini.",
+      "step_1_title": "1. Undang Pasangan",
+      "step_1_desc": "Daftar dan kirim tautan undangan unik ke pasangan untuk menghubungkan akun Anda.",
+      "step_2_title": "2. Koneksi Harian",
+      "step_2_desc": "Jawab satu pertanyaan seru atau mendalam setiap hari untuk membuka jawaban pasangan.",
+      "step_3_title": "3. Tumbuh Bersama",
+      "step_3_desc": "Saksikan hubungan Anda semakin dalam dengan kebiasaan apresiasi dan keterbukaan."
+    },
+    "testimonials": {
+      "badge": "Dicintai lebih dari 50.000 pasangan",
+      "section_title": "Kisah cinta dari komunitas kami",
+      "section_subtitle": "Temukan bagaimana Hearth membantu pasangan di seluruh dunia membangun koneksi yang lebih dalam.",
+      "quote_1": "Hearth mengubah cara kami berkomunikasi. Pertanyaan harian memicu percakapan yang tidak akan kami lakukan. Rasanya seperti pacaran lagi.",
+      "author_1": "Jessica & Mark",
+      "years_1": "Bersama 3 tahun",
+      "location_1": "San Francisco, CA",
+      "quote_2": "Saya suka garis waktu pribadi. Seperti jejaring sosial kecil kami, hanya untuk kami, tanpa kebisingan. Estetikanya sangat indah.",
+      "author_2": "Alex & Sam",
+      "years_2": "Menikah 5 tahun",
+      "location_2": "London, UK",
+      "quote_3": "Investasi terbaik untuk hubungan kami tahun ini. Membuat kami tetap terhubung meski jadwal sibuk.",
+      "author_3": "Taylor & Jordan",
+      "years_3": "Bersama 1 tahun",
+      "location_3": "Austin, TX"
+    },
+    "faq": {
+      "section_title": "Pertanyaan yang sering diajukan",
+      "q1_question": "Apakah Hearth gratis?",
+      "q1_answer": "Ya! Hearth memiliki tier gratis yang murah hati termasuk pertanyaan harian dan berbagi kenangan dasar. Hearth Premium membuka kenangan tak terbatas, wawasan lanjutan, dan lebih banyak lagi.",
+      "q2_question": "Bisakah saya menggunakan Hearth untuk hubungan jarak jauh?",
+      "q2_answer": "Tentu. Hearth dirancang untuk menjembatani jarak antara pasangan, baik dalam satu ruangan maupun ribuan kilometer.",
+      "q3_question": "Apakah data saya pribadi?",
+      "q3_answer": "Privasi adalah prioritas kami. Percakapan dan foto Anda dienkripsi dan hanya dapat diakses oleh Anda dan pasangan. Kami tidak menjual data Anda.",
+      "q4_question": "Bagaimana jika kami putus?",
+      "q4_answer": "Anda dapat mengekspor data atau menghapus akun secara permanen. Data Anda milik Anda."
+    },
+    "cta": {
+      "title": "Siap memprioritaskan hubungan Anda?",
+      "subtitle": "Bergabung dengan komunitas pasangan yang secara sadar membangun masa depan yang lebih baik bersama.",
+      "available_on": "Tersedia di iOS & Android"
+    },
+    "store": {
+      "app_store": "App Store",
+      "app_store_caption": "Unduh di",
+      "google_play": "Google Play",
+      "google_play_caption": "Dapatkan di"
+    },
+    "footer": {
+      "tagline": "Membuat dunia lebih penuh cinta, satu pasangan pada satu waktu.",
+      "product": "Produk",
+      "features": "Fitur",
+      "pricing": "Harga",
+      "testimonials": "Testimoni",
+      "faq": "FAQ",
+      "company": "Perusahaan",
+      "about_us": "Tentang Kami",
+      "blog": "Blog",
+      "careers": "Karier",
+      "contact": "Kontak",
+      "legal": "Legal",
+      "privacy_policy": "Kebijakan Privasi",
+      "terms_of_service": "Ketentuan Layanan",
+      "cookie_policy": "Kebijakan Cookie",
+      "copyright": "© 2026 Hearth App. Hak cipta dilindungi.",
+      "aria_language": "Pilih bahasa"
+    }
+  },
+  "notfound": {
+    "header": "Tidak ditemukan",
+    "description": "Halaman ini tidak ada.",
+    "try_creating_page": "Coba buat halaman di"
+  },
+  "go_back": "Kembali ke beranda"
+}
