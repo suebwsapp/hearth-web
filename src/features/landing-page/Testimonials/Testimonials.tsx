@@ -5,6 +5,7 @@ import IconHeart from "@/assets/icons/heart";
 import IconStar from "@/assets/icons/star";
 import IconCheck from "@/assets/icons/check";
 import { getDefaultMessage } from "@/utils/defaultMessages";
+import { AnimateInView } from "@/components/AnimateInView";
 
 export default function Testimonials() {
   const { t } = useI18n();
@@ -30,7 +31,7 @@ export default function Testimonials() {
       </div>
 
       <div className="max-w-7xl mx-auto px-6 md:px-12 relative z-10">
-        <div className="text-center mb-20">
+        <AnimateInView className="text-center mb-20">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 text-primary-foreground text-sm font-medium mb-6 backdrop-blur-sm border border-white/10">
             <IconHeart className="w-4 h-4 text-pink-400" fill />
             <span>{t("landing.testimonials.badge", "Loved by 50,000+ couples")}</span>
@@ -44,14 +45,16 @@ export default function Testimonials() {
               "Discover how Hearth is helping couples around the world build deeper, more meaningful connections.",
             )}
           </p>
-        </div>
+        </AnimateInView>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           {testimonials.map((testimonial, i) => (
-            <div
+            <AnimateInView
               key={i}
-              className="bg-white/5 backdrop-blur-md min-w-80 p-8 rounded-3xl border border-white/10 hover:bg-white/10 transition-colors duration-300 flex flex-col"
+              className="flex flex-col"
+              delay={i * 100}
             >
+            <div className="bg-white/5 backdrop-blur-md min-w-80 p-8 rounded-3xl border border-white/10 hover:bg-white/10 transition-colors duration-300 flex flex-col flex-1">
               <div className="flex gap-1 mb-6">
                 {[1, 2, 3, 4, 5].map((star) => (
                   <IconStar
@@ -99,6 +102,7 @@ export default function Testimonials() {
                 </div>
               </div>
             </div>
+            </AnimateInView>
           ))}
         </div>
       </div>

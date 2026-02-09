@@ -173,6 +173,17 @@
   animation: fade-in-up 0.5s ease-out forwards;
 }
 
+/* Scroll-triggered: animate when element enters viewport */
+.animate-in-view {
+  opacity: 0;
+  transform: translateY(1.25rem);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+.animate-in-view.in-view {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 .animate-fade-in-scale {
   animation: fade-in-scale 0.6s ease-out 0.2s forwards;
   opacity: 0;

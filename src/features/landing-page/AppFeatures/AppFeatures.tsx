@@ -2,6 +2,7 @@ import React from "react";
 import { useI18n } from "@/contexts/I18nContext";
 import { features } from "@/data/data";
 import { getDefaultMessage } from "@/utils/defaultMessages";
+import { AnimateInView } from "@/components/AnimateInView";
 
 export default function AppFeatures() {
   const { t } = useI18n();
@@ -22,13 +23,10 @@ export default function AppFeatures() {
 
         <div className="grid md:grid-cols-3 gap-12 text-center md:text-left">
           {features.map((feature, index) => (
-            <div
+            <AnimateInView
               key={index}
-              className="flex flex-col md:items-start items-center animate-fade-in-up"
-              style={{
-                animationDelay: `${index * 0.1}s`,
-                animationFillMode: "backwards",
-              }}
+              className="flex flex-col md:items-start items-center"
+              delay={index * 100}
             >
               <div className="w-14 h-14 rounded-2xl flex items-center bg-muted text-primary justify-center mb-5 shadow-sm">
                 {feature.icon}
@@ -39,7 +37,7 @@ export default function AppFeatures() {
               <p className="type-body leading-relaxed text-muted-foreground">
                 {t(feature.descriptionKey, getDefaultMessage(feature.descriptionKey))}
               </p>
-            </div>
+            </AnimateInView>
           ))}
         </div>
       </div>

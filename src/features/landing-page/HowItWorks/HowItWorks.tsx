@@ -2,6 +2,7 @@ import React from "react";
 import { useI18n } from "@/contexts/I18nContext";
 import { steps } from "@/data/data";
 import { getDefaultMessage } from "@/utils/defaultMessages";
+import { AnimateInView } from "@/components/AnimateInView";
 
 export default function HowItWorks() {
   const { t } = useI18n();
@@ -24,13 +25,10 @@ export default function HowItWorks() {
           <div className="hidden md:block absolute top-12 left-[15%] right-[15%] h-0.5 bg-gradient-to-r from-transparent via-gray-300 to-transparent opacity-50"></div>
 
           {steps.map((step, index) => (
-            <div
+            <AnimateInView
               key={index}
-              className="relative z-10 flex flex-col items-center text-center group animate-fade-in-up"
-              style={{
-                animationDelay: `${index * 0.2}s`,
-                animationFillMode: "backwards",
-              }}
+              className="relative z-10 flex flex-col items-center text-center group"
+              delay={index * 200}
             >
               <div className="relative mb-8 pt-2">
                 <div className="w-20 h-20 rounded-2xl flex items-center justify-center shadow-lg relative z-10 bg-primary transition-all duration-300 group-hover:-translate-y-1">
@@ -50,7 +48,7 @@ export default function HowItWorks() {
                   {t(step.descriptionKey, getDefaultMessage(step.descriptionKey))}
                 </p>
               </div>
-            </div>
+            </AnimateInView>
           ))}
         </div>
       </div>
